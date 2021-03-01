@@ -1,0 +1,11 @@
+#java-min-version=8
+#run-without-check=false
+#launcher=https://nube.castillalamancha.es/index.php/s/eXlZoNUtscxy5HB/download
+
+url=https://nube.castillalamancha.es/index.php/s/6w8GEOhhuWOqVlv/download
+main-class=gallegux.instapant.MainIP
+
+0.url=http://gx.com/instapant-core.jar
+0.file=https://nube.castillalamancha.es/index.php/s/BsO3YjRace64AHg/download
+0.store=true
+
